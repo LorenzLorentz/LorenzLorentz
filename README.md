@@ -14,3 +14,15 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## GitHub Stats
+
+<table><tr><td>
+
+[![Stats](https://github-readme-stats.vercel.app/api?username=LorenzLorentz&show=reviews,prs_merged,prs_merged_percentage&show_icons=true&rank_icon=percentile&hide_border=true)](https://github-readme-stats.vercel.app/api?username=LorenzLorentz&show=reviews,prs_merged,prs_merged_percentage&show_icons=true&rank_icon=percentile&hide_border=true)
+
+</td><td>
+
+[![WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=LorenzLorentz&hide=Other&langs_count=10)](https://github-readme-stats.vercel.app/api/wakatime?username=LorenzLorentz&hide=Other&langs_count=10)
+
+</td></tr></table>
