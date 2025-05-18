@@ -30,6 +30,5 @@ Here are some ideas to get you started:
 
 </td><td>
 
-[![WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=LorenzLorentz&hide=Other&langs_count=10)](https://github-readme-stats.vercel.app/api/wakatime?username=LorenzLorentz&hide=Other&langs_count=10)
-
-</td></tr></table>
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
